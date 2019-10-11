@@ -1,0 +1,23 @@
+1. Dog Preparation
+  2.1 Get collar
+   2.1.1 Put collar on
+   2.1.2 Check collar for tightness
+  2.2 Get leash
+    2.2.1 Put leash on
+  2.3 Get poop bags
+    2.3.1 Go to drawer
+    2.3.2 Open drawer
+    2.3.3 Take out bags
+    2.3.4 Put bags in pocket
+2. Walk Preparation
+  2.1 Check weather
+    2.1.1 Open up Google
+    2.1.2 Type in address
+    2.1.3 Hit search
+    2.1.4 Browse results
+      2.2.1 IF RAINY, do not go
+      2.2.2 IF RAINY, go
+3. Exit
+  3.1 Open door
+  3.2 Close door
+  3.3 Lock door
