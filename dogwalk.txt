@@ -21,3 +21,8 @@
   3.1 Open door
   3.2 Close door
   3.3 Lock door
+
+4. Enjoy the Walk
+  4.1 Breath air
+  4.2 Get Vitamin D
+  
